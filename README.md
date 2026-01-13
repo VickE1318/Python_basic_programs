@@ -1,14 +1,14 @@
 # Python Basic Programs
 
-## 📌 Project Description
+## Project Description
 This repository contains a collection of basic Python programming exercises. It is designed for beginners to practice and improve their Python skills.
 
-## ✅ Features
+## Features
 - Covers fundamental Python concepts
 - Organized by topics for easy navigation
 - Simple and beginner-friendly examples
 
-## 📂 Folder Structure
+## Folder Structure
 ```
 Python_basic_programs/
 ├── basics/          # Basic syntax and operations
@@ -18,7 +18,7 @@ Python_basic_programs/
 └── README.md        # Project documentation
 ```
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/VickE1318/Python_basic_programs.git
@@ -32,11 +32,11 @@ Python_basic_programs/
    python filename.py
    ```
 
-## 💡 Contribution
+## Contribution
 Feel free to fork this repository and submit pull requests with improvements or new exercises.
 
-## 🛠 Requirements
+## Requirements
 - Python 3.x installed on your system
 
-## 📜 License
+## License
 This project is licensed under the MIT License.
